@@ -16,16 +16,16 @@ var things = alert(`Javoblaringiz uchun rahmat! , ${userName}`);
 
 
 
-console.log(`foydalanuvchi ismi ${userName},
-savol-0: ${question1},
-savol-1: ${question2},
-savol-2:  ${question3},
-savol-3: ${question4},
-savol-4: ${question5},
-savol-5: ${question6},
-savol-6: ${question7},
-savol-7: ${question8},
-savol-8: ${question9},
-savol-9: ${question10},
-savol-10: ${intro},
+console.log(`foydalanuvchi ismi: ${userName},
+javob-1: ${question1},
+javob-2: ${question2},
+javob-3: ${question3},
+javob-4: ${question4},
+javob-5: ${question5},
+javob-6: ${question6},
+javob-7: ${question7},
+javob-8: ${question8},
+javob-9: ${question9},
+javob-10: ${question10},
+savollardan mamnunligi: ${intro},
 `)
